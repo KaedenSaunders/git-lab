@@ -55,3 +55,6 @@ Answer 9: On branch master
           Your branch is up to date with 'origin/master'.
 
           nothing to commit, working tree clean
+Answer 10: They are not reflected in my local copy
+Answer 11: Git throws an error
+Answer 12: Yes, the answers are now reflected in the local copy
