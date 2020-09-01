@@ -58,3 +58,9 @@ Answer 9: On branch master
 Answer 10: They are not reflected in my local copy
 Answer 11: Git throws an error
 Answer 12: Yes, the answers are now reflected in the local copy
+Answer 13: 09/01/2020  05:15 PM    <DIR>          .
+           09/01/2020  05:15 PM    <DIR>          ..
+           09/01/2020  05:15 PM               302 .gitignore
+           09/01/2020  05:15 PM                11 README.md
+                          2 File(s)            313 bytes
+                          2 Dir(s)  931,260,239,872 bytes free
